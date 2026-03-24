@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Dilsha
 
-<!--
-**DilshaNimeshika/DilshaNimeshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 UI/UX Designer & Frontend Developer  
+🚀 I build modern websites using React & Next.js  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- React
+- Next.js
+- Tailwind CSS
+- Figma
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DilshaNimeshika&show_icons=true)
