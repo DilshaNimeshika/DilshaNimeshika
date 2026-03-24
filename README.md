@@ -11,6 +11,8 @@
 - Tailwind CSS
 - Figma
 
+- <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,figma" />
+
 ---
 
 ## 📊 GitHub Stats
